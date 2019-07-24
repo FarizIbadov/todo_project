@@ -1,0 +1,64 @@
+.wrapper {
+    margin: 50px auto;
+    width: 50% !important;
+}
+
+.container {
+    text-align: center !important;
+    margin: 0 auto;
+}
+
+* {
+    color: black !important;
+}
+
+.Active {
+    color: black;
+    text-decoration: none;
+}
+
+.completed {
+    cursor: pointer;
+}
+
+.Completed {
+    color: gray !important;
+    text-decoration: line-through;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.form-control1 {
+    margin-top: 20px;
+    border: 0.5px solid gray;
+    padding: 5px;
+}
+
+.remaining-items {
+    float: left;
+    padding-left: 5px;
+}
+
+.All {
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.Active {
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.Completed {
+    cursor: pointer;
+}
